@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.emi.calculator.test.EmiCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-02T01:47:41" hostname="LAPTOP-3TAA163E" time="10.84">
+  <properties/>
+  <testcase name="calculateEmiShouldSucceed" classname="com.emi.calculator.test.EmiCalculatorTest" time="10.84"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
